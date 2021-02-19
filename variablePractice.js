@@ -4,3 +4,6 @@ var myFavoriteThings = ['Josh, my boyfriend', 'Rock Climbing', 'Food', 'DIY'];
 var myAge = 30
 var iLikeOysters = FALSE
 var iTryThemAnnuallyAnyway = TRUE
+myName = "Claire Fields"
+myDogsName = "Sweet Pea"
+myAge = "Almost 31"
